@@ -5,5 +5,5 @@ Our goal is to analyse the superdiffusive behaviour of particles following Activ
 
 We have done this using the following expermients:
 
-    1. First Setup: Particle movement is restricted in a Bounded Plane
-    2. Second Setup: Unbounded Particle Propagation until a max time step.
+1. First Setup: Particle movement is restricted in a Bounded Plane
+2. Second Setup: Unbounded Particle Propagation until a max time step.
